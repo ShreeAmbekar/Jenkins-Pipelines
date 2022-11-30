@@ -3,3 +3,5 @@ This is only for sample file
 added new line
 
 2nd line added
+
+3rd line
